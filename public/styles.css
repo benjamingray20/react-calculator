@@ -1,0 +1,18 @@
+.form {
+  margin: 60px auto;
+  text-align: center;
+  width: 50%;
+}
+.title {
+font-size: 25px;
+font-weight: 600;
+}
+input {
+  width: 10%;
+  margin: 5px;
+  border-radius: 5px;
+}
+.equals {
+  background-color: lightgray;
+}
+button:focus {outline:0;}
